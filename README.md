@@ -18,7 +18,7 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 
 ### 🧰 Projects & Experiments
 - ⚡ **n8n Flows** – Personal automations for daily productivity  
-- 🧭 **grep clone** – clone of grep in Rust. [source](https://rust-cli.github.io/book/tutorial/setup.html)  
+- 🧭 **grep clone** – clone of grep in Rust. [Following this Guide](https://rust-cli.github.io/book/tutorial/setup.html)  
 - 🧱 **Python CLI Tools** – Handy utilities for system info, network checks, and automation  
 - 🖥️ **Terminal customizations** – Oh My Posh, Fastfetch, and dotfile magic  
 
