@@ -20,7 +20,7 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 - ⚡ **n8n Flows** – Personal automations for daily productivity  
 - 🧭 **grep clone** – clone of grep in Rust. [Following this Guide](https://rust-cli.github.io/book/tutorial/setup.html)  
 - 🧱 **Python CLI Tools** – Handy utilities for system info, network checks, and automation  
-- 🖥️ **Terminal customizations** – Oh My Posh, Fastfetch, and dotfile magic  
+- 🖥️ **Terminal customizations** – Vim setups.  
 
 > Small tools. Big learning.
 
@@ -52,9 +52,9 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 ---
 
 ### 🐧 Fun Facts
-- My terminal probably has more personality than I do  
-- I once spent an entire afternoon debugging a missing semicolon  
-- Fastfetch and coffee = morning ritual ☕
+- I'm mostly optimistic, but when learning, I often see how much I don't know rather than how much I know  
+- Accidentally broke my system to the point you have to reinstall the whole thing while configuring couple of times 
+- Lightmode cultist
 
 ---
 
