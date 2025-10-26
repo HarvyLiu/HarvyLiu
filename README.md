@@ -38,7 +38,6 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarvyLiu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarvyLiu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
