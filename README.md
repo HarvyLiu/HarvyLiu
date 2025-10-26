@@ -27,9 +27,10 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 ---
 
 ### 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-spp--l-black?logo=github&style=flat)](https://github.com/spp-l)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarvyLiu-blue?logo=linkedin&style=flat)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-harvyliu@proton.me-8B89CC?logo=protonmail&style=flat)](mailto:harvyliu@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-HarvyLiu-black?logo=github&style=flat)](https://github.com/HarvyLiu)
+[![Email](https://img.shields.io/badge/Email-harvyliu2009@proton.me-8B89CC?logo=protonmail&style=flat)](mailto:harvyliu2009@proton.me)
+Suggested server
+
 
 ---
 
