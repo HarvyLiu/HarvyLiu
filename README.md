@@ -8,10 +8,10 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 ---
 
 ### 🧠 Currently Learning
-- 🐍 Python automation & scripting  
-- 🦀 Rust CLI development  
-- 🐧 Linux ricing & system customization (Arch / Ubuntu)  
-- 🧩 Docker, networking, and cybersecurity fundamentals  
+- 🐍 **Python** automation & scripting  
+- 🦀 **Rust** CLI development  
+- 🐧 **Linux** ricing & system customization (Arch / Ubuntu)  
+- 🧩 **Docker, networking, and cybersecurity** fundamentals  
 - ⚙️ Workflow automation with **n8n**
 
 ---
