@@ -44,10 +44,10 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 ---
 
 ### ☕ About Me
-🧩 Club Lead @ Information Research Club  
+🧩 Club Teacher @ SSInRC  
 🔒 Exploring cybersecurity (CTFs, network analysis, ethical hacking)  
 🎯 Goal: build, learn, and document everything that sparks curiosity  
-💬 Motto: “Automate what can be automated — learn what can’t.”
+💬 Motto: “When life gives you lemons, just rm -rf ./lemons”
 
 ---
 
