@@ -1,3 +1,60 @@
-## Hi there 👋
+# 👋 Hey there, I’m Harvy Liu
 
+> “There's no place like 127.0.0.1.”
 
+💡 I’m a curious developer, tinkerer, and cybersecurity enthusiast who loves exploring how systems *actually* work — from the kernel to the cloud.  
+I spend my days experimenting with automation, building CLI tools, and learning the inner workings of Linux, Rust, and Python.
+
+---
+
+### 🧠 Currently Learning
+- 🐍 Python automation & scripting  
+- 🦀 Rust CLI development  
+- 🐧 Linux ricing & system customization (Arch / Ubuntu)  
+- 🧩 Docker, networking, and cybersecurity fundamentals  
+- ⚙️ Workflow automation with **n8n**
+
+---
+
+### 🧰 Projects & Experiments
+- ⚡ **n8n Flows** – Personal automations for daily productivity  
+- 🧭 **grep clone** – Custom search tool built in Rust  
+- 🧱 **Python CLI Tools** – Handy utilities for system info, network checks, and automation  
+- 🖥️ **Terminal customizations** – Oh My Posh, Fastfetch, and dotfile magic  
+
+> Small tools. Big learning.
+
+---
+
+### 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-spp--l-black?logo=github&style=flat)](https://github.com/spp-l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarvyLiu-blue?logo=linkedin&style=flat)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-harvyliu@proton.me-8B89CC?logo=protonmail&style=flat)](mailto:harvyliu@proton.me)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spp-l&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spp-l&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### ☕ About Me
+🧩 Club Lead @ Information Research Club  
+🔒 Exploring cybersecurity (CTFs, network analysis, ethical hacking)  
+🎯 Goal: build, learn, and document everything that sparks curiosity  
+💬 Motto: “Automate what can be automated — learn what can’t.”
+
+---
+
+### 🐧 Fun Facts
+- My terminal probably has more personality than I do  
+- I once spent an entire afternoon debugging a missing semicolon  
+- Fastfetch and coffee = morning ritual ☕
+
+---
+
+> 🌱 Always learning. Always building. Always a little too curious.
