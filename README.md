@@ -29,7 +29,8 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 ### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-HarvyLiu-black?logo=github&style=flat)](https://github.com/HarvyLiu)
 [![Email](https://img.shields.io/badge/Email-harvyliu2009@proton.me-8B89CC?logo=protonmail&style=flat)](mailto:harvyliu2009@proton.me)
-Suggested server
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&style=flat)](https://discord.gg/cxcc3xncCj)
+
 
 
 ---
