@@ -2,7 +2,7 @@
 
 > “There's no place like 127.0.0.1.”
 
-💡 I’m a curious developer, tinkerer, and cybersecurity enthusiast who loves exploring how systems *actually* work — from the kernel to the cloud.  
+💡 I’m a curious developer, cybersecurity and system design enthusiast who loves exploring how systems *actually* work — from the kernel to the cloud.  
 I spend my days experimenting with automation, building CLI tools, and learning the inner workings of Linux, Rust, and Python.
 
 ---
