@@ -30,7 +30,6 @@ I spend my days experimenting with automation, building CLI tools, and learning 
 [![GitHub](https://img.shields.io/badge/GitHub-HarvyLiu-black?logo=github&style=flat)](https://github.com/HarvyLiu)
 [![Email](https://img.shields.io/badge/Email-harvyliu2009@proton.me-8B89CC?logo=protonmail&style=flat)](mailto:harvyliu2009@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&style=flat)](https://discord.gg/cxcc3xncCj)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f5c4c6c2-a5a1-4de4-b0a5-9949f6e5cb2c/deploy-status)](https://app.netlify.com/projects/harvy-portfolio/deploys)
 
 
 ---
