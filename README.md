@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Harvy Liu
-
+This file is mostly AI-generated, then modified by me.
 > “There's no place like 127.0.0.1.”
 
 💡 I’m a curious developer, cybersecurity and system design enthusiast who loves exploring how systems *actually* work — from the kernel to the cloud.  
